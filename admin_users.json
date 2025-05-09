@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "nombre": "Administrador",
+    "isAdmin": true
+  },
+  {
+    "username": "vendedor",
+    "password": "vendedor123",
+    "nombre": "Vendedor",
+    "isAdmin": false
+  }
+]
